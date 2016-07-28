@@ -1,4 +1,8 @@
 <?php
+<<<<<<< HEAD
+=======
+
+>>>>>>> 54faa6904f17ecffbf1588f63877b4a7b982528f
 /**
  * @file
  * Default theme implementation to display a printer-friendly version page.
@@ -81,6 +85,7 @@
       <link rel='shortcut icon' href='<?php print theme_get_setting('favicon') ?>' type='image/x-icon' />
     <?php endif; ?>
     <?php print $css; ?>
+<<<<<<< HEAD
     <style type="text/css">
       .action-links {
         display: none;
@@ -89,6 +94,8 @@
         border-bottom: 0;
       }
     </style>
+=======
+>>>>>>> 54faa6904f17ecffbf1588f63877b4a7b982528f
   </head>
   <body>
     <?php if (!empty($message)): ?>

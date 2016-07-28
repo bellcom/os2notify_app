@@ -1,4 +1,8 @@
 <?php
+<<<<<<< HEAD
+=======
+
+>>>>>>> 54faa6904f17ecffbf1588f63877b4a7b982528f
 /**
  * @file
  * Default theme implementation to display a printer-friendly version page.
